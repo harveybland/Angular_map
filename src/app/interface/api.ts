@@ -1,5 +1,5 @@
 export interface chargingStation {
-    Id: string;
+    ChargeDeviceId: string;
     Name?: string;
     Town?: string;
     County?: string;

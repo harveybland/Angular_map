@@ -5375,11 +5375,6 @@
   dependencies:
     "find-up" "^4.0.0"
 
-"polyline-encoded@^0.0.9":
-  "integrity" "sha512-xv6ONShzZdcISK6IT8x3IqsqxPq7HRqcPJ80V4et4hMolIRct5s/5dtUkfO7hGZEeKtWZ1fK7/fKur8gbd4fvg=="
-  "resolved" "https://registry.npmjs.org/polyline-encoded/-/polyline-encoded-0.0.9.tgz"
-  "version" "0.0.9"
-
 "portfinder@^1.0.26":
   "integrity" "sha512-Se+2isanIcEqf2XMHjyUKskczxbPH7dQnlMjXX6+dybayyHvAf/TCgyMRlzf/B6QDhAEFOGes0pzRo3by4AbMA=="
   "resolved" "https://registry.npmjs.org/portfinder/-/portfinder-1.0.28.tgz"

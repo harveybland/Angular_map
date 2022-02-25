@@ -14,11 +14,11 @@ export class MapService {
   constructor(private http: HttpClient) { }
 
   getChargingStations() {
-    return this.http.get<chargingStation[]>('https://localhost:44346/api/ChargingStation')
+    return this.http.get<chargingStation[]>('https://localhost:44346/api/ChargingStations')
   }
 
-  getchargingStation(id: number) {
-    return this.http.get<chargingStation>('https://localhost:44346/api/ChargingStation/' + id)
+  getchargingStation(ChargeDeviceId: string) {
+    return this.http.get<chargingStation>('https://localhost:44346/api/ChargingStations/' + ChargeDeviceId)
 
   }
 }
