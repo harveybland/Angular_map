@@ -1,0 +1,28 @@
+.map-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 30px;
+  // Remove
+  z-index: 1;
+}
+
+.map-frame {
+  border: 2px solid black;
+  height: 100%;
+}
+
+#map {
+  height: 100%;
+}
+
+.map-static {
+  position: absolute;
+  bottom: 100px;
+  background: #fff;
+  z-index: 10;
+  left: 50px;
+  padding: 7px;
+}

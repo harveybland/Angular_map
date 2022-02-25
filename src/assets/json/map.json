@@ -1,0 +1,4502 @@
+[
+  {
+    "Name": "Morrisons Skipton Broughton Road",
+    "Town": "Craven",
+    "County": "North Yorkshire",
+    "Postcode": "BD23 1RT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.96,
+    "Longitude": -2.02
+  },
+  {
+    "Name": "Morrisons Skipton Broughton Road",
+    "Town": "Craven",
+    "County": "North Yorkshire",
+    "Postcode": "BD23 1RT",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.96,
+    "Longitude": -2.02
+  },
+  {
+    "Name": "Morrisons Skipton Broughton Road",
+    "Town": "Craven",
+    "County": "North Yorkshire",
+    "Postcode": "BD23 1RT",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.96,
+    "Longitude": -2.02
+  },
+  {
+    "Name": "Acres Lane",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX7 7LT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -2.02
+  },
+  {
+    "Name": "Acres Lane",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX7 7LT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -2.02
+  },
+  {
+    "Name": "King Cole Ltd",
+    "Town": "Skipton",
+    "County": "North Yorkshire",
+    "Postcode": "BD23 2QR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.94,
+    "Longitude": -2.02
+  },
+  {
+    "Name": "King Cole Ltd",
+    "Town": "Skipton",
+    "County": "North Yorkshire",
+    "Postcode": "BD23 2QR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.94,
+    "Longitude": -2.02
+  },
+  {
+    "Name": "Market Place",
+    "Town": "Hebden Bridge",
+    "County": "West Yorkshire",
+    "Postcode": "HX7 7BL",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Market Place",
+    "Town": "Hebden Bridge",
+    "County": "West Yorkshire",
+    "Postcode": "HX7 7BL",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.74,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Market Place",
+    "Town": "Hebden Bridge",
+    "County": "West Yorkshire",
+    "Postcode": "HX7 7BL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Skipton High Street Car Park",
+    "Town": "Skipton",
+    "County": "Yorkshire",
+    "Postcode": "BD23 1ED",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.96,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Skipton High Street Car Park",
+    "Town": "Skipton",
+    "County": "Yorkshire",
+    "Postcode": "BD23 1ED",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.96,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Skipton High Street Car Park",
+    "Town": "Skipton",
+    "County": "Yorkshire",
+    "Postcode": "BD23 1ED",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.96,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Skipton High Street Car Park",
+    "Town": "Skipton",
+    "County": "Yorkshire",
+    "Postcode": "BD23 1ED",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.96,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Skipton High Street Car Park",
+    "Town": "Skipton",
+    "County": "Yorkshire",
+    "Postcode": "BD23 1ED",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.96,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Skipton High Street Car Park",
+    "Town": "Skipton",
+    "County": "Yorkshire",
+    "Postcode": "BD23 1ED",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.96,
+    "Longitude": -2.01
+  },
+  {
+    "Name": "Airedale Hospital, Steeton",
+    "Town": "Steeton",
+    "County": "West Yorkshire",
+    "Postcode": "BD162NA",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.9,
+    "Longitude": -1.97
+  },
+  {
+    "Name": "Airedale Hospital, Steeton",
+    "Town": "Steeton",
+    "County": "West Yorkshire",
+    "Postcode": "BD162NA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.9,
+    "Longitude": -1.97
+  },
+  {
+    "Name": "Airedale Hospital, Steeton",
+    "Town": "Steeton",
+    "County": "West Yorkshire",
+    "Postcode": "BD162NA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.9,
+    "Longitude": -1.97
+  },
+  {
+    "Name": "Museum Car park ",
+    "Town": "Keighley",
+    "County": "West Yorkshire",
+    "Postcode": "BD22 8DT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.96
+  },
+  {
+    "Name": "Museum Car park ",
+    "Town": "Keighley",
+    "County": "West Yorkshire",
+    "Postcode": "BD22 8DT",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.83,
+    "Longitude": -1.96
+  },
+  {
+    "Name": "Museum Car park ",
+    "Town": "Keighley",
+    "County": "West Yorkshire",
+    "Postcode": "BD22 8DT",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.96
+  },
+  {
+    "Name": "Valley View Court",
+    "Town": "Keighley",
+    "County": "West Yorkshire",
+    "Postcode": "BD22 7NU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.94
+  },
+  {
+    "Name": "Valley View Court",
+    "Town": "Keighley",
+    "County": "West Yorkshire",
+    "Postcode": "BD22 7NU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.94
+  },
+  {
+    "Name": "Bridge Street Car park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD20 9NB",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.92,
+    "Longitude": -1.94
+  },
+  {
+    "Name": "Bridge Street Car park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD20 9NB",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.92,
+    "Longitude": -1.94
+  },
+  {
+    "Name": "Bridge Street Car park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD20 9NB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.92,
+    "Longitude": -1.94
+  },
+  {
+    "Name": "Valley View Court",
+    "Town": "Keighley",
+    "County": "West Yorkshire",
+    "Postcode": "BD22 7NU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.94
+  },
+  {
+    "Name": "Station Road 1",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX6 3AB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Station Road 1",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX6 3AB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Station Road 2",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX6 3AB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Station Road 2",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX6 3AB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Morrisons Keighley",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD21 5AE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.86,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Morrisons Keighley",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD21 5AE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.86,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Morrisons Keighley",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD21 5AE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.86,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "\tWest Street Car Park Sowerby Bridge",
+    "Town": "Sowerby Bridge",
+    "County": "West Yorkshire",
+    "Postcode": "HX6 3AN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "\tWest Street Car Park Sowerby Bridge",
+    "Town": "Sowerby Bridge",
+    "County": "West Yorkshire",
+    "Postcode": "HX6 3AN",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "\tWest Street Car Park Sowerby Bridge",
+    "Town": "Sowerby Bridge",
+    "County": "West Yorkshire",
+    "Postcode": "HX6 3AN",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.71,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Scott Street Car Park",
+    "Town": "Keighley",
+    "County": "West Yorkshire",
+    "Postcode": "BD21 3AB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Scott Street Car Park",
+    "Town": "Keighley",
+    "County": "West Yorkshire",
+    "Postcode": "BD21 3AB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.91
+  },
+  {
+    "Name": "Keighley Leisure Centre",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD21 3JN",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.9
+  },
+  {
+    "Name": "Keighley Leisure Centre",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD21 3JN",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.87,
+    "Longitude": -1.9
+  },
+  {
+    "Name": "Keighley Leisure Centre",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD21 3JN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.9
+  },
+  {
+    "Name": "Haugh Shaw Road Car Park",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 3LW",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.88
+  },
+  {
+    "Name": "Haugh Shaw Road Car Park",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 3LW",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.71,
+    "Longitude": -1.88
+  },
+  {
+    "Name": "Haugh Shaw Road Car Park",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 3LW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.88
+  },
+  {
+    "Name": "Paradise Car Park",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2ST",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.72,
+    "Longitude": -1.87
+  },
+  {
+    "Name": "Paradise Car Park",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2ST",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.87
+  },
+  {
+    "Name": "Paradise Car Park",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2ST",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.87
+  },
+  {
+    "Name": "Manor Road 1",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 0BE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.87
+  },
+  {
+    "Name": "Manor Road 1",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 0BE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.87
+  },
+  {
+    "Name": "Manor Road 2",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 0BE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.87
+  },
+  {
+    "Name": "Manor Road 2",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 0BE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.87
+  },
+  {
+    "Name": "Lightcliffe Nissan Dealership",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2ND",
+    "ConnectorType": "3-pin Type G (BS1363)",
+    "Latitude": 53.72,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "Lightcliffe Nissan Dealership",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2ND",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "St Johns Lane",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2JD",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "St Johns Lane",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2JD",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.72,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "St Johns Lane",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2JD",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "St Johns Lane\t",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2JD",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "St Johns Lane\t",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2JD",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.72,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "St Johns Lane\t",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 2JD",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "Sainsburys Halifax",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 1SB",
+    "ConnectorType": "3-pin Type G (BS1363)",
+    "Latitude": 53.73,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "Sainsburys Halifax",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 1SB",
+    "ConnectorType": "3-pin Type G (BS1363)",
+    "Latitude": 53.73,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "Sainsbury\u0027s Halifax",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 1SB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "Sainsbury\u0027s Halifax",
+    "Town": "Halifax",
+    "County": "West Yorkshire",
+    "Postcode": "HX1 1SB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.86
+  },
+  {
+    "Name": "Morrisons Elland",
+    "Town": "Elland",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 9DY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Morrisons Elland",
+    "Town": "Elland",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 9DY",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Morrisons Elland",
+    "Town": "Elland",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 9DY",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Lidl - Bingley",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD16 2AH",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Lidl - Bingley",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD16 2AH",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Lidl - Bingley",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD16 2AH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Timber Street Car Park",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 0ER",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Timber Street Car Park",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 0ER",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Timber Street Car Park",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 0ER",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Wellington Road Car Park",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD16 2NA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Wellington Road Car Park",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD16 2NA",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Wellington Road Car Park",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD16 2NA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Wellington Road, Bingley",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD162NA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Wellington Road, Bingley",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD162NA",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Wellington Road, Bingley",
+    "Town": "Bingley",
+    "County": "West Yorkshire",
+    "Postcode": "BD162NA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Timber Street Car Park",
+    "Town": "Elland",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 0EA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Timber Street Car Park",
+    "Town": "Elland",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 0EA",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Timber Street Car Park",
+    "Town": "Elland",
+    "County": "West Yorkshire",
+    "Postcode": "HX5 0EA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.84
+  },
+  {
+    "Name": "Towngate Car Park 3",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 7EF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.83
+  },
+  {
+    "Name": "Towngate Car Park 3",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 7EF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.83
+  },
+  {
+    "Name": "Towngate Car Park 1",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 7EF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.83
+  },
+  {
+    "Name": "Towngate Car Park 1",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 7EF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.83
+  },
+  {
+    "Name": "Towngate Car Park 2",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 7EF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.83
+  },
+  {
+    "Name": "Towngate Car Park 2",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 7EF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.83
+  },
+  {
+    "Name": "Huddersfield Royal Infirmary - ",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD3 3EB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.66,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "Huddersfield Royal Infirmary - ",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD3 3EB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.66,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "ILKLEY 2",
+    "Town": "Ilkley",
+    "County": "West Yorkshire",
+    "Postcode": "LS29 8EE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.93,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "ILKLEY 2",
+    "Town": "Ilkley",
+    "County": "West Yorkshire",
+    "Postcode": "LS29 8EE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.93,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "ILKLEY 1",
+    "Town": "Ilkley",
+    "County": "West Yorkshire",
+    "Postcode": "LS29 8EE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.93,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "ILKLEY 1",
+    "Town": "Ilkley",
+    "County": "West Yorkshire",
+    "Postcode": "LS29 8EE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.93,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "Huddersfield Royal Infirmary",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD3 3EB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.66,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "Huddersfield Royal Infirmary",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD3 3EB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.66,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "Ilkley Lido",
+    "Town": "Ilkley",
+    "County": "West Yorkshire",
+    "Postcode": "LS29 0BZ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.93,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "Ilkley Lido",
+    "Town": "Ilkley",
+    "County": "West Yorkshire",
+    "Postcode": "LS29 0BZ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.93,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "Ilkley Lido",
+    "Town": "Ilkley",
+    "County": "West Yorkshire",
+    "Postcode": "LS29 0BZ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.93,
+    "Longitude": -1.82
+  },
+  {
+    "Name": "Wakefield Road Car Park 2",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 8AA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.81
+  },
+  {
+    "Name": "Wakefield Road Car Park 2",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 8AA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.81
+  },
+  {
+    "Name": "Wakefield Road Car Park 3",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 8AA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.81
+  },
+  {
+    "Name": "Wakefield Road Car Park 3",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 8AA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.81
+  },
+  {
+    "Name": "Wakefield Road Car Park 1",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 8AA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.81
+  },
+  {
+    "Name": "Wakefield Road Car Park 1",
+    "Town": "Calderdale",
+    "County": "West Yorkshire",
+    "Postcode": "HX3 8AA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.81
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Bradford Royal Infirmary",
+    "Town": "Bradford",
+    "County": "NA",
+    "Postcode": "BD9 6RJ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Bradford Royal Infirmary",
+    "Town": "Bradford",
+    "County": "NA",
+    "Postcode": "BD9 6RJ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Aldi - Quora Retail Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 2RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.8
+  },
+  {
+    "Name": "Lockwood Road Rapid Charger",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 3TG",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.63,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Lockwood Road Rapid Charger",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 3TG",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.63,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Lockwood Road Rapid Charger",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 3TG",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.63,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Lockwood Road Rapid Charger",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 3TG",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.63,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Tesco Extra - Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 4EY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Tesco Extra - Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 4EY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Tesco Extra - Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 4EY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Tesco Extra - Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD7 4EY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Asda",
+    "Town": "Bradford",
+    "County": "NA",
+    "Postcode": "BD7 2QX",
+    "ConnectorType": "3-pin Type G (BS1363)",
+    "Latitude": 53.79,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Asda",
+    "Town": "Bradford",
+    "County": "NA",
+    "Postcode": "BD7 2QX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Tesco Superstore - Bradford Buttershaw",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD6 2DW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Tesco Superstore - Bradford Buttershaw",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD6 2DW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Tesco Superstore - Bradford Buttershaw",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD6 2DW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Tesco Superstore - Bradford Buttershaw",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD6 2DW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Exhibition Road Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD18 3JW",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Exhibition Road Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD18 3JW",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.84,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Exhibition Road Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD18 3JW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Asda",
+    "Town": "Bradford",
+    "County": "NA",
+    "Postcode": "BD7 2QX",
+    "ConnectorType": "3-pin Type G (BS1363)",
+    "Latitude": 53.79,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Asda",
+    "Town": "Bradford",
+    "County": "NA",
+    "Postcode": "BD7 2QX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.79
+  },
+  {
+    "Name": "Parsonage Lane Car Park",
+    "Town": "Calderdale",
+    "County": "Yorkshire ",
+    "Postcode": "HD6 1AT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Parsonage Lane Car Park",
+    "Town": "Calderdale",
+    "County": "Yorkshire ",
+    "Postcode": "HD6 1AT",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Parsonage Lane Car Park",
+    "Town": "Calderdale",
+    "County": "Yorkshire ",
+    "Postcode": "HD6 1AT",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Tesco Superstore - Brighouse Bradford Road",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1RZ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Tesco Superstore - Brighouse Bradford Road",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1RZ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Saville Street, Shipley",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD18 3SX",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Saville Street, Shipley",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD18 3SX",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.83,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Saville Street, Shipley",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD18 3SX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Bath Street Car Park",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 5BQ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Bath Street Car Park",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 5BQ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Bath Street Car Park",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 5BQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Victor Street Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD9 4RB",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Victor Street Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD9 4RB",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.81,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Victor Street Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD9 4RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Oldgate",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 6HQ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Oldgate",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 6HQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Oldgate",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD1 6HQ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Lidl - Brighouse",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1PE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Lidl - Brighouse",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1PE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Lidl - Brighouse",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1PE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Bethel Street",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD61JR",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Bethel Street",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD61JR",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Bethel Street",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD61JR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Asda",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD2 2LQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Asda",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD2 2LQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Kirklees Shopping Centre Car Park",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD1 2QB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Kirklees Shopping Centre Car Park",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD1 2QB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Tesco Superstore - Brighouse Bradford Road",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1RZ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Tesco Superstore - Brighouse Bradford Road",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1RZ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Asda",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD2 2DQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Asda",
+    "Town": "Huddersfield",
+    "County": "NA",
+    "Postcode": "HD2 2DQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Asda Huddersfield",
+    "Town": "Huddersfield ",
+    "County": "West Yorkshire",
+    "Postcode": "HD2 1TZ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Asda Huddersfield",
+    "Town": "Huddersfield ",
+    "County": "West Yorkshire",
+    "Postcode": "HD2 1TZ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.67,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Asda Huddersfield",
+    "Town": "Huddersfield ",
+    "County": "West Yorkshire",
+    "Postcode": "HD2 1TZ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Wibsey Fairground Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD6 1TG",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Wibsey Fairground Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD6 1TG",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.77,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Wibsey Fairground Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD6 1TG",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Brighouse Sports Club",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 4LX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Brighouse Sports Club",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 4LX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Yorkshire Rose Pub \u0026 Restaurant",
+    "Town": "Huddersfield",
+    "County": "Yorkshire",
+    "Postcode": "HD1 6NW",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Yorkshire Rose Pub \u0026 Restaurant",
+    "Town": "Huddersfield",
+    "County": "Yorkshire",
+    "Postcode": "HD1 6NW",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Yorkshire Rose Pub \u0026 Restaurant",
+    "Town": "Huddersfield",
+    "County": "Yorkshire",
+    "Postcode": "HD1 6NW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.65,
+    "Longitude": -1.78
+  },
+  {
+    "Name": "Manningham Sports Centre ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD8 8BA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Manningham Sports Centre ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD8 8BA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Manningham Sports Centre ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD8 8BA",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.8,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Crown Service Station Rapid Charger",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1QH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Crown Service Station Rapid Charger",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1QH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Crown Service Station Rapid Charger",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1QH",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Crown Service Station Rapid Charger",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 1QH",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.7,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Asda Aspley",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD5 9AD",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.64,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Asda Aspley",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD5 9AD",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.64,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Asda Aspley",
+    "Town": "Huddersfield",
+    "County": "West Yorkshire",
+    "Postcode": "HD5 9AD",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.64,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Ian Clough Hall",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD17 6ND",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Ian Clough Hall",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD17 6ND",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.85,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Asda Wyke",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD12 9JF",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Asda Wyke",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD12 9JF",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.74,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Asda Wyke",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD12 9JF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.77
+  },
+  {
+    "Name": "Sedbergh Leisure Centre",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD12 0HQ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Sedbergh Leisure Centre",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD12 0HQ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.76,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Sedbergh Leisure Centre",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD12 0HQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Rawson Road ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 3RA ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Rawson Road ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 3RA ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.8,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Rawson Road ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 3RA ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Nissan Bristol Street Motors",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 2EP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Nissan Bristol Street Motors",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 2EP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Sedbergh Leisure Centre",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD12 0HQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Sedbergh Leisure Centre",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD12 0HQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.76
+  },
+  {
+    "Name": "Peel Centre Shopping Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 4RB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Peel Centre Shopping Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 4RB",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Peel Centre Shopping Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 4RB",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.81,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Cedar Court - West Yorkshire",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD5 8HW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Cedar Court - West Yorkshire",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD5 8HW",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Cedar Court - West Yorkshire",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD5 8HW",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Cedar Court Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD5 8HW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Cedar Court Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD5 8HW",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Cedar Court Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD5 8HW",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Vicar Lane",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 5AH",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Vicar Lane",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 5AH",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Vicar Lane",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 5AH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "T53_IT1_1017_011_2",
+    "Town": "Bradford",
+    "County": "Yorkshire",
+    "Postcode": "BD1 1JA",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "WB Hartshead Moor Northbound",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 4JX",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.71,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "WB Hartshead Moor Northbound",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 4JX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "WB Hartshead Moor Northbound",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 4JX",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "T53_IT1_1017_011_1",
+    "Town": "Bradford",
+    "County": "Yorkshire",
+    "Postcode": "BD1 1JA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Vicar Lane, Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 5LD",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Vicar Lane, Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 5LD",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Vicar Lane, Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 5LD",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Crown Court Car Park ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 1JA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Crown Court Car Park ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 1JA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "Crown Court Car Park ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD1 1JA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "T53_IT1_1017_011_3",
+    "Town": "Bradford",
+    "County": "Yorkshire",
+    "Postcode": "BD1 1JA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "SHELL RECHARGE ROOLEY LANE",
+    "Town": "Bradford",
+    "County": "Bradford",
+    "Postcode": "BD5 8JR",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "SHELL RECHARGE ROOLEY LANE",
+    "Town": "Bradford",
+    "County": "Bradford",
+    "Postcode": "BD5 8JR",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "SHELL RECHARGE ROOLEY LANE",
+    "Town": "Bradford",
+    "County": "Bradford",
+    "Postcode": "BD5 8JR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.75
+  },
+  {
+    "Name": "WB Hartshead Moor Southbound",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 4JX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.74
+  },
+  {
+    "Name": "WB Hartshead Moor Southbound",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 4JX",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.71,
+    "Longitude": -1.74
+  },
+  {
+    "Name": "WB Hartshead Moor Southbound",
+    "Town": "Brighouse",
+    "County": "West Yorkshire",
+    "Postcode": "HD6 4JX",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.74
+  },
+  {
+    "Name": "Toby Carvery Bradford",
+    "Town": "Bradford",
+    "County": "NA",
+    "Postcode": "BD5 8LB",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.77,
+    "Longitude": -1.74
+  },
+  {
+    "Name": "Toby Carvery Bradford",
+    "Town": "Bradford",
+    "County": "NA",
+    "Postcode": "BD5 8LB",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.77,
+    "Longitude": -1.74
+  },
+  {
+    "Name": "The Green Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD10 9PT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.73
+  },
+  {
+    "Name": "The Green Car Park",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD10 9PT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.73
+  },
+  {
+    "Name": "Asda Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD4 7SR",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.73
+  },
+  {
+    "Name": "Asda Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD4 7SR",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.77,
+    "Longitude": -1.73
+  },
+  {
+    "Name": "Asda Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD4 7SR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.73
+  },
+  {
+    "Name": "Starbucks Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD4 7SJ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.73
+  },
+  {
+    "Name": "Starbucks Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD4 7SJ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.77,
+    "Longitude": -1.73
+  },
+  {
+    "Name": "Starbucks Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD4 7SJ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.77,
+    "Longitude": -1.73
+  },
+  {
+    "Name": "The Bobbin Carrier Pub \u0026 Restaurant",
+    "Town": "Cleckheaton",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3QE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "The Bobbin Carrier Pub \u0026 Restaurant",
+    "Town": "Cleckheaton",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3QE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "The Bobbin Carrier Pub \u0026 Restaurant",
+    "Town": "Cleckheaton",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3QE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.74,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "The Bobbin Carrier Pub \u0026 Restaurant",
+    "Town": "Cleckheaton",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3QE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "The Bobbin Carrier Pub \u0026 Restaurant",
+    "Town": "Cleckheaton",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3QE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.74,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "The Bobbin Carrier Pub \u0026 Restaurant",
+    "Town": "Cleckheaton",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3QE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "Orange Street Car Park ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 8EY",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "Orange Street Car Park ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 8EY",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.79,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "Orange Street Car Park ",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 8EY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "Hitching Post Pub and Restaurant",
+    "Town": "Bradford",
+    "County": "Yorkshire",
+    "Postcode": "BD10 9SX",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "Hitching Post Pub and Restaurant",
+    "Town": "Bradford",
+    "County": "Yorkshire",
+    "Postcode": "BD10 9SX",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.83,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "Hitching Post Pub and Restaurant",
+    "Town": "Bradford",
+    "County": "Yorkshire",
+    "Postcode": "BD10 9SX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.72
+  },
+  {
+    "Name": "Morrisons Bradford Thornbury",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 7HZ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.8,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Morrisons Bradford Thornbury",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 7HZ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Morrisons Bradford Thornbury",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 7HZ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Cleckheaton ATE",
+    "Town": "Cleckheaton",
+    "County": "NA",
+    "Postcode": "BD19 5ET",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Cleckheaton ATE",
+    "Town": "Cleckheaton",
+    "County": "NA",
+    "Postcode": "BD19 5ET",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Aireborough Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9BT",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Aireborough Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9BT",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.87,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Aireborough Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9BT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "St Johns CP",
+    "Town": "Kirklees",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3RN",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "St Johns CP",
+    "Town": "Kirklees",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3RN",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.72,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "St Johns CP",
+    "Town": "Kirklees",
+    "County": "West Yorkshire",
+    "Postcode": "BD19 3RN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.72,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Aldi - Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 8JW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Aldi - Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 8JW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Aldi - Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 8JW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Aldi - Bradford",
+    "Town": "Bradford",
+    "County": "West Yorkshire",
+    "Postcode": "BD3 8JW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.71
+  },
+  {
+    "Name": "Westside Retail Park",
+    "Town": "Guiseley",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9NE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Westside Retail Park",
+    "Town": "Guiseley",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9NE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.87,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Westside Retail Park",
+    "Town": "Guiseley",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9NE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Beech Hill Car Park 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 3AT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Beech Hill Car Park 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 3AT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Wharfedale Hospital",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 2LY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.92,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Wharfedale Hospital",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 2LY",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.92,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Wharfedale Hospital",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 2LY",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.92,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Westside Retail Park",
+    "Town": "Guiseley",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9NE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Westside Retail Park",
+    "Town": "Guiseley",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9NE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.87,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Westside Retail Park",
+    "Town": "Guiseley",
+    "County": "West Yorkshire",
+    "Postcode": "LS20 9NE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Beech Hill Car Park 3",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 3AT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Beech Hill Car Park 3",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 3AT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Beech Hill Car Park 2",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 3AT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Beech Hill Car Park 2",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 3AT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.7
+  },
+  {
+    "Name": "Asda Otley",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 1HE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Asda Otley",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 1HE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.91,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Asda Otley",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS21 1HE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Lidl - Mirfield",
+    "Town": "Mirfield",
+    "County": "West Yorkshire",
+    "Postcode": "WF14 8PT",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.67,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Lidl - Mirfield",
+    "Town": "Mirfield",
+    "County": "West Yorkshire",
+    "Postcode": "WF14 8PT",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Lidl - Mirfield",
+    "Town": "Mirfield",
+    "County": "West Yorkshire",
+    "Postcode": "WF14 8PT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Aldi - Yeadon",
+    "Town": "Yeadon",
+    "County": "West Yorkshire",
+    "Postcode": "LS19 7HN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Aldi - Yeadon",
+    "Town": "Yeadon",
+    "County": "West Yorkshire",
+    "Postcode": "LS19 7HN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Station Road ",
+    "Town": "Mirfield",
+    "County": "West Yorkshire",
+    "Postcode": "WF14 8NH",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Station Road ",
+    "Town": "Mirfield",
+    "County": "West Yorkshire",
+    "Postcode": "WF14 8NH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.67,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Station Road ",
+    "Town": "Mirfield",
+    "County": "West Yorkshire",
+    "Postcode": "WF14 8NH",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.67,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Aldi - Yeadon",
+    "Town": "Yeadon",
+    "County": "West Yorkshire",
+    "Postcode": "LS19 7HN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Aldi - Yeadon",
+    "Town": "Yeadon",
+    "County": "West Yorkshire",
+    "Postcode": "LS19 7HN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "North Parade Car Park, Otley",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS211BA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "North Parade Car Park, Otley",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS211BA",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.91,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "North Parade Car Park, Otley",
+    "Town": "Otley",
+    "County": "West Yorkshire",
+    "Postcode": "LS211BA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.91,
+    "Longitude": -1.69
+  },
+  {
+    "Name": "Yeadon One Stop Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS19 7PP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.68
+  },
+  {
+    "Name": "Yeadon One Stop Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS19 7PP",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.87,
+    "Longitude": -1.68
+  },
+  {
+    "Name": "Yeadon One Stop Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS19 7PP",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.87,
+    "Longitude": -1.68
+  },
+  {
+    "Name": "Queens Park, Pudsey 3",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7FB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Queens Park, Pudsey 3",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7FB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Albion Street Car Park",
+    "Town": "Heckmondwike",
+    "County": "West Yorkshire",
+    "Postcode": "WF16 9LQ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Albion Street Car Park",
+    "Town": "Heckmondwike",
+    "County": "West Yorkshire",
+    "Postcode": "WF16 9LQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Albion Street Car Park",
+    "Town": "Heckmondwike",
+    "County": "West Yorkshire",
+    "Postcode": "WF16 9LQ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.71,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Queens Park, Pudsey 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7FB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Queens Park, Pudsey 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7FB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Charles St Car Park",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 5JW",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Charles St Car Park",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 5JW",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.81,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Charles St Car Park",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 5JW",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Queens Park, Pudsey 2",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7FB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Queens Park, Pudsey 2",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7FB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.67
+  },
+  {
+    "Name": "Low Lane",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 9HB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Low Lane",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 9HB",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.73,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Low Lane",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 9HB",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.73,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Ravensthorpe Shopping Park 22",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 3HN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.68,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Ravensthorpe Shopping Park 22",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 3HN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.68,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Lidl - Stanningley",
+    "Town": "Stanningley",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 6HB",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Lidl - Stanningley",
+    "Town": "Stanningley",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 6HB",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.81,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Lidl - Stanningley",
+    "Town": "Stanningley",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 6HB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "BT Communications",
+    "Town": "Pudsey",
+    "County": "NA",
+    "Postcode": "LS28 6EX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "BT Communications",
+    "Town": "Pudsey",
+    "County": "NA",
+    "Postcode": "LS28 6EX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Ravensthorpe Shopping Park 50",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 3HN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.68,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Ravensthorpe Shopping Park 50",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 3HN",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.68,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Ravensthorpe Shopping Park 50",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 3HN",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.68,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Pudsey Leisure Centre",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7BE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Pudsey Leisure Centre",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7BE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.8,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Pudsey Leisure Centre",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 7BE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Jet Europa",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 6HQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Jet Europa",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 6HQ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.81,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "Jet Europa",
+    "Town": "Pudsey",
+    "County": "West Yorkshire",
+    "Postcode": "LS28 6HQ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.66
+  },
+  {
+    "Name": "IKEA Leeds",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 9AE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "IKEA Leeds",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 9AE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.75,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "IKEA Leeds",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 9AE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "Dewsbury \u0026 District Hospital",
+    "Town": "Halifax Road",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 4HS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "Dewsbury \u0026 District Hospital",
+    "Town": "Halifax Road",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 4HS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "Fink Hill Car Park\t",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5DX",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "Fink Hill Car Park\t",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5DX",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.84,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "Fink Hill Car Park\t",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5DX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "IKEA Leeds",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 9AE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.75,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "IKEA Leeds",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 9AE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.65
+  },
+  {
+    "Name": "Fink Hill Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5DX",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Fink Hill Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5DX",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Fink Hill Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5DX",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Church Lane  Car Park 2",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5LA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Upper Road Car Park",
+    "Town": "West Yorkshire",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 2BH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Upper Road Car Park",
+    "Town": "West Yorkshire",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 2BH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Morrisons Leeds Horsforth",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5BP",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Morrisons Leeds Horsforth",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5BP",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Morrisons Leeds Horsforth",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5BP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Al-Hikmah Centre",
+    "Town": "Wakefield",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 7AA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Al-Hikmah Centre",
+    "Town": "Wakefield",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 7AA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.7,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Church Lane Car Park 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5LA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Church Lane Car Park 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS18 5LA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.64
+  },
+  {
+    "Name": "Tesco Superstore - Penistone",
+    "Town": "Penistone",
+    "County": "South Yorkshire",
+    "Postcode": "S36 6TS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Tesco Superstore - Penistone",
+    "Town": "Penistone",
+    "County": "South Yorkshire",
+    "Postcode": "S36 6TS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Shrewsbury Road 1",
+    "Town": "Barnsley",
+    "County": "South Yorkshire",
+    "Postcode": "S36 6DY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Shrewsbury Road 1",
+    "Town": "Barnsley",
+    "County": "South Yorkshire",
+    "Postcode": "S36 6DY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Shrewsbury Road Car Park",
+    "Town": "Sheffield",
+    "County": "NA",
+    "Postcode": "S36 6DY",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Shrewsbury Road Car Park",
+    "Town": "Sheffield",
+    "County": "NA",
+    "Postcode": "S36 6DY",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Tesco Extra - Batley",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 5DR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Tesco Extra - Batley",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 5DR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Dewsbury Railway Station",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 2NJ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Dewsbury Railway Station",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 2NJ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.69,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Dewsbury Railway Station",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 2NJ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "South Street Car Park",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 1JS",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "South Street Car Park",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 1JS",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.69,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "South Street Car Park",
+    "Town": "Dewsbury",
+    "County": "West Yorkshire",
+    "Postcode": "WF13 1JS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.69,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Tesco Superstore - Penistone",
+    "Town": "Penistone",
+    "County": "South Yorkshire",
+    "Postcode": "S36 6TS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Tesco Superstore - Penistone",
+    "Town": "Penistone",
+    "County": "South Yorkshire",
+    "Postcode": "S36 6TS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Shrewsbury Road 2",
+    "Town": "Barnsley",
+    "County": "South Yorkshire",
+    "Postcode": "S36 6DY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Shrewsbury Road 2",
+    "Town": "Barnsley",
+    "County": "South Yorkshire",
+    "Postcode": "S36 6DY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.53,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Tesco Extra - Batley",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 5DR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Tesco Extra - Batley",
+    "Town": "Batley",
+    "County": "West Yorkshire",
+    "Postcode": "WF17 5DR",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.71,
+    "Longitude": -1.63
+  },
+  {
+    "Name": "Victoria Service Station",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0LF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.62
+  },
+  {
+    "Name": "Victoria Service Station",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0LF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.62
+  },
+  {
+    "Name": "Victoria Service Station",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0LF",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.74,
+    "Longitude": -1.62
+  },
+  {
+    "Name": "Victoria Service Station",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0LF",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.62
+  },
+  {
+    "Name": "Toby Carvery Bruntcliffe",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS27 0LY",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.75,
+    "Longitude": -1.62
+  },
+  {
+    "Name": "Toby Carvery Bruntcliffe",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS27 0LY",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.75,
+    "Longitude": -1.62
+  },
+  {
+    "Name": "Asda Stores Britannia House",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS27 0DQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.61
+  },
+  {
+    "Name": "Asda Stores Britannia House",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS27 0DQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.61
+  },
+  {
+    "Name": "Kirkstall Bridge Shopping Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS5 3BL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.82,
+    "Longitude": -1.61
+  },
+  {
+    "Name": "Kirkstall Bridge Shopping Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS5 3BL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.82,
+    "Longitude": -1.61
+  },
+  {
+    "Name": "Morley Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 9JP",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.61
+  },
+  {
+    "Name": "Morley Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 9JP",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.75,
+    "Longitude": -1.61
+  },
+  {
+    "Name": "Morley Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 9JP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.61
+  },
+  {
+    "Name": "High Street Car Park 2",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 8AQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "High Street Car Park 2",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 8AQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Quarry Court Rapid Charger",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0BY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Quarry Court Rapid Charger",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0BY",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Quarry Court Rapid Charger",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0BY",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Quarry Court Rapid Charger",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0BY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Evans Halshaw Citroen Leeds",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS12 4RJ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Evans Halshaw Citroen Leeds",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS12 4RJ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "7kW Charger at Alfa Head Office",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0BY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Abbey Retail Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS5 3RP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.82,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Abbey Retail Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS5 3RP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.82,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Annie Street Car Park, Morley ",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 8HQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Annie Street Car Park, Morley ",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 8HQ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Annie Street Car Park, Morley ",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 8HQ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.75,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "High Street Car Park 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 8AQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "High Street Car Park 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 8AQ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Kirkstall Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS5 3BE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.82,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Kirkstall Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS5 3BE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.82,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Kirkstall Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS5 3BE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.82,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Quarry Court Fast Charger",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0BY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Quarry Court Fast Charger",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS27 0BY",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.74,
+    "Longitude": -1.6
+  },
+  {
+    "Name": "Asda Kirkstall",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS42EZ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.59
+  },
+  {
+    "Name": "Asda Kirkstall",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS42EZ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.59
+  },
+  {
+    "Name": "Asda Kirkstall",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS42EZ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.81,
+    "Longitude": -1.59
+  },
+  {
+    "Name": "RIVERSIDE 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS4 2QD",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.81,
+    "Longitude": -1.59
+  },
+  {
+    "Name": "RIVERSIDE 1",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS4 2QD",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.59
+  },
+  {
+    "Name": "Armley Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS12 3HB",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.59
+  },
+  {
+    "Name": "Armley Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS12 3HB",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.8,
+    "Longitude": -1.59
+  },
+  {
+    "Name": "Armley Leisure Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS12 3HB",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.59
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Road",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Road",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Asda Wortley",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS12 4BP",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Asda Wortley",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS12 4BP",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.79,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Asda Wortley",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS12 4BP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.79,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Cloth Halls",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4DN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Cloth Halls",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4DN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "New Rover Cricket Club",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS16 8HF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "New Rover Cricket Club",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS16 8HF",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.84,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Ventnor Way",
+    "Town": "Ossett",
+    "County": "West Yorkshire",
+    "Postcode": "WF5 8PA",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.68,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Ventnor Way",
+    "Town": "Ossett",
+    "County": "West Yorkshire",
+    "Postcode": "WF5 8PA",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.68,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Ventnor Way",
+    "Town": "Ossett",
+    "County": "West Yorkshire",
+    "Postcode": "WF5 8PA",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.68,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "82 Headingley Lane",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS6 2DH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.82,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "82 Headingley Lane",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS6 2DH",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.82,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.78,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Road",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Road",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Castle Grove",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4BP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Castle Grove",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4BP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Road",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Road",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Cloth Halls",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4DN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Cloth Halls",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4DN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Cloth Halls",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4DN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Cloth Halls",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4DN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Cloth Halls",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4DN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Cloth Halls",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS6 4DN",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.83,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8LU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.76,
+    "Longitude": -1.58
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Benfield Motors - Leeds",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1HS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Benfield Motors - Leeds",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1HS",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Burley Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JP",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Burley Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JP",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Burley Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Kirkstall Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JJ",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Kirkstall Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JJ",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Kirkstall Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JJ",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Elland Road Park and Ride",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS11 8TU",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.78,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Burley Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JP",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Burley Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JP",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Burley Road Car Park",
+    "Town": "Leeds",
+    "County": "West Yorkshire",
+    "Postcode": "LS3 1JP",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8LL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8LL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8LL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "White Rose Shopping Centre",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS11 8LL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.75,
+    "Longitude": -1.57
+  },
+  {
+    "Name": "Crowne Plaza Leeds",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS1 4DL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "Crowne Plaza Leeds",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS1 4DL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "University of Leeds",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS2 9JT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "University of Leeds",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS2 9JT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "University of Leeds",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS2 9JT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "University of Leeds",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS2 9JT",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.81,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "Horbury High Street",
+    "Town": "Wakefield",
+    "County": "West Yorkshire",
+    "Postcode": "WF4 5LE",
+    "ConnectorType": "CCS Type 2 Combo (IEC62196)",
+    "Latitude": 53.66,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "Horbury High Street",
+    "Town": "Wakefield",
+    "County": "West Yorkshire",
+    "Postcode": "WF4 5LE",
+    "ConnectorType": "JEVS G105 (CHAdeMO) DC",
+    "Latitude": 53.66,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "Horbury High Street",
+    "Town": "Wakefield",
+    "County": "West Yorkshire",
+    "Postcode": "WF4 5LE",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.66,
+    "Longitude": -1.56
+  },
+  {
+    "Name": "Crowne Plaza Leeds",
+    "Town": "Leeds",
+    "County": "NA",
+    "Postcode": "LS1 4DL",
+    "ConnectorType": "Type 2 Mennekes (IEC62196)",
+    "Latitude": 53.8,
+    "Longitude": -1.56
+  }
+]
