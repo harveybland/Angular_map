@@ -8,6 +8,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MapComponent } from './ui/map/map.component';
 import { Map2Component } from './ui/map2/map2.component';
+import { Map2ItemComponent } from './ui/map2/map2-item/map2-item.component';
 
 @NgModule({
   imports: [
@@ -20,7 +21,8 @@ import { Map2Component } from './ui/map2/map2.component';
   declarations: [
     AppComponent,
     MapComponent,
-    Map2Component
+    Map2Component,
+    Map2ItemComponent
   ],
   providers: [],
   bootstrap: [AppComponent]

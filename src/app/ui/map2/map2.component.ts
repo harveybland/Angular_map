@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { MapService } from '../map.service';
+import { Map } from 'leaflet';
+
 
 @Component({
   selector: 'app-map2',
@@ -8,9 +9,15 @@ import { MapService } from '../map.service';
 })
 export class Map2Component implements OnInit {
 
-  constructor(private mapService: MapService) { }
+  map: any;
+
+  constructor() { }
 
   ngOnInit() {
+  }
+
+  onMapReady(map: Map) {
+    this.map = map;
   }
 
 }

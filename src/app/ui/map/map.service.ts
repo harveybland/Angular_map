@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { BehaviorSubject } from 'rxjs';
-import { chargingStation } from '../interface/api';
+import { chargingStation } from '../../interface/api';
 
 @Injectable({
   providedIn: 'root'
