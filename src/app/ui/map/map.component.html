@@ -4,10 +4,26 @@
   </div>
 </div>
 
-<div class="map-static">
+<div class="map-settings">
+  <div>
+    <label>Connector Type: </label>
+    <select (change)="getPath($event)" [(ngModel)]="selectedOption">
+      <option *ngFor="let o of options" value="{{ o.value }}">
+        {{ o.name }}
+      </option>
+    </select>
+  </div>
+</div>
+
+<div class="map-details">
   <div>{{ chargingStation?.Name }}</div>
+  <div>{{ chargingStation?.Street }}</div>
   <div>{{ chargingStation?.Town }}</div>
   <div>{{ chargingStation?.County }}</div>
-  <div>{{ chargingStation?.Postcode }}</div>
-  <div>{{ chargingStation?.ConnectorType }}</div>
+  <div>{{ chargingStation?.PostCode }}</div>
+  <ul *ngFor="let item of Connectors">
+    <li>{{ item.ConnectorType }}</li>
+    <li>{{ item.ChargeMethod }}</li>
+    <li>{{ item.Status }}</li>
+  </ul>
 </div>

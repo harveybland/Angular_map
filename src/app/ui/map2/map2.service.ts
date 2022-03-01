@@ -1,24 +1,26 @@
+import { ConfigService } from './../../client/config.service';
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { BehaviorSubject } from 'rxjs';
-import { chargingStation } from '../../interface/api';
 
 @Injectable({
   providedIn: 'root'
 })
-export class MapService {
+export class Map2Service {
 
-  private _chargingStation$ = new BehaviorSubject<chargingStation[]>([]);
-  chargingStation$ = this._chargingStation$.asObservable();
+  // private _chargingStation$ = new BehaviorSubject<chargingStation[]>([]);
+  // chargingStation$ = this._chargingStation$.asObservable();
 
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient,
+    private configService: ConfigService) { }
 
-  getChargingStations() {
-    return this.http.get<chargingStation[]>('https://localhost:44346/api/ChargingStations')
-  }
+  // getPath() {
+  //   return this.http.get(this.configService.path())
+  // }
 
-  getchargingStation(ChargeDeviceId: string) {
-    return this.http.get<chargingStation>('https://localhost:44346/api/ChargingStations/' + ChargeDeviceId)
+  // getDetails() {
+  //   return this.http.get(this.configService.details())
 
-  }
+  // }
+
 }

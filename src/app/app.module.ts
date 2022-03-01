@@ -9,6 +9,7 @@ import { AppComponent } from './app.component';
 import { MapComponent } from './ui/map/map.component';
 import { Map2Component } from './ui/map2/map2.component';
 import { Map2ItemComponent } from './ui/map2/map2-item/map2-item.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   imports: [
@@ -16,7 +17,8 @@ import { Map2ItemComponent } from './ui/map2/map2-item/map2-item.component';
     BrowserModule,
     AppRoutingModule,
     RouterModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   declarations: [
     AppComponent,

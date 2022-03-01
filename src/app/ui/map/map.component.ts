@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { tileLayer, marker } from 'leaflet';
 import * as L from 'leaflet';
 import 'leaflet.markercluster'
+import { ConnectorDetails } from 'src/app/interface/api';
 
 @Component({
   selector: 'app-map',
@@ -17,12 +18,39 @@ export class MapComponent implements OnInit {
   guid: any;
   lat: any;
   lng: any;
+  polyline: string = '';
   chargingStation: any;
+  Connectors: ConnectorDetails[] = [];
   decoded: [number, number][] = [];
+  layerGroup: any;
 
-  ngOnInit(): void {
-    this.mapService.getChargingStations().subscribe(resp => {
-      var locations = resp;
+  connectorType: string = '';
+  selectedOption: any;
+
+  options = [
+    { name: "All", value: '' },
+    { name: "3-pin Type G (BS1363)", value: '3-pin Type G (BS1363)' },
+    { name: "JEVS G105 (CHAdeMO) DC", value: 'JEVS G105 (CHAdeMO) DC' }
+  ]
+
+  ngOnInit() {
+    this.initMap();
+    this.setPath('');
+  }
+
+  getPath(type: any) {
+    this.setPath(type.target.value);
+  }
+
+  setPath(type: string) {
+    this.mapService.getPath(type).subscribe(resp => {
+      this.polyline = resp.Polyline
+
+      this.decoded = (this.decode(this.polyline));
+      this.layerGroup.clearLayers();
+      this.layerGroup.addLayer(L.polyline(this.decoded));
+
+      var locations = resp.ConnectorResults;
       var newIcon = L.icon({
         iconUrl: 'https://unpkg.com/leaflet@1.0.3/dist/images/marker-icon.png',
         iconSize: [20, 30],
@@ -34,7 +62,7 @@ export class MapComponent implements OnInit {
       for (var i = 0; i < locations.length; i++) {
         let marker = L.marker([locations[i].Latitude, locations[i].Longitude], { icon: newIcon })
           .bindTooltip(locations[i].Name + '</br> ' + locations[i].ConnectorType)
-        markers.addLayer(marker).addTo(this.map);
+        markers.addLayer(marker).addTo(this.layerGroup);
         this.guid = locations[i].ChargeDeviceId;
         let guid = this.guid;
         let scope = this;
@@ -45,12 +73,21 @@ export class MapComponent implements OnInit {
         });
       }
     })
-    this.initMap();
   }
 
+  // getLocation() {
+  //   navigator.geolocation.getCurrentPosition(function (resp) {
+  //     console.log(resp)
+  //   })
+  // }
+
   getStation(guid: any) {
-    this.mapService.getchargingStation(guid).subscribe(resp => {
+    this.mapService.getDetails(guid).subscribe(resp => {
+      if (resp.County === 'NA') {
+        resp.County = ''
+      }
       this.chargingStation = resp;
+      this.Connectors = resp.Connectors;
     })
   }
 
@@ -73,10 +110,8 @@ export class MapComponent implements OnInit {
       attribution: '...'
     });
 
-    this.decoded = (this.decode("g\u0060ihI|jxKuVucCm@m\u0060@qG{a@gPqg@kIw\u0060@gLqv@~Aw@z@tArRSdXkApLcFvLaNjEcJbNsb@TmAn[iv@hNmSrOaOlToTxMgC~]ab@fg@o\u0060@nNaQ|KkF|LxBnFjDfEAnFq@fFkJtMkk@\u0060NsVrDuEhAsH\u0060Eqe@pM{}@vAgiAjGacAbGySjMe[jP}W\u0060\u0060@o]dPqXzIqj@bGwXtPiVlLiGbRmDhFqOpDgg@dA{G|BuAbEyO~AuWxCsd@~GkYrIwPbQ{{@~J}y@z@mKtJsh@dHyPdNgRpO_KfO_EpKcIlEoOfCqTvLqO|QgLhM}LpG}OfJiKtR}OlAcAb@\u0060Gk@vLTjCvHJzGI?C@C@CDAFLp@DhLsCfDsAtFqOaBsa@TkJnCsF\u0060X{Jji@ie@dJg_@zH}KbO}LnIwEzByOzB}O~F{i@vIcRtJoVhK{a@vBaGBKjSgi@fBqDbEc@rFm@tEaBnBqHhAd@~NcFbJpAfPtPdT~WfEbBrH{@|F}A|JjAdLjA\u0060DqAhA}GlFuZj@cR[_GrQmNbKgJtZuL|k@oPxPqJvp@yn@~U_YlB{GsLsQ{Uaa@}Iaf@e@_XxAuW|Nkn@lHci@^}e@}Fsv@uS{_CkJuiA\u0060@}_@rDkWjJgW~HgKfZsShMgQhIsSfLuc@~Neq@xA{_@iC_\u0060@qNwv@cCmj@Lc{@XcxA{@wbA}Bak@tBwx@bKokAo@kGpAaGlEoA|BjCfUrYbNvVv\\xx@dZju@tR|p@lMdVpOdQvW~QhShKtTbEtb@oCjo@aKp_@sH\u0060QuJnNqMtOkWzMkZvp@qz@\u0060MwL|K_EtLChMpC|_@xRhUhT\u0060WlUpOdE~L?hRnC\u0060PpJzY|[hVdSfWzIj_@fAza@qElVuMlTkW|Zmd@\u0060NcKlQoGlUi@nUhI|[bRtPtCrZaBh^qQ\u0060UsUnOwU\u0060Ok\u0060@xOyd@dRgUxbAaw@lSyTrKeRrVi^rXyYhJmG~LcDnLAhK\u0060C\u0060XzHnIi@\u0060KcEpTyVnWiTdOwSrHeQmAyIbByErEnIrA~ItBxHRxOpEnQdX\u0060[vMnYtBlBNrGwGvsAQhVpD~Z\u0060Kdp@|Gvp@{Clt@{BjZyAda@lDzZ|Mn\u0060@tAnCrB?xDfRzMzLdCp@\u0060AuAhFcGzFgBlKyD\u0060RuDnS}Vlm@m[nI?bM\u0060CbNkHxCyCtF]~RpAzE_AzSuX~GwIdBgN~Cy^jEmCdLbGdH{FnOsSzBiEdBmChAbC|BrEAf@{CdILp@ChAmB~CsA~HtA\u0060IhBxAbC}@hH{JhGmD\u0060@mCzEqAvLzElEQA~E|@|Cx@WlAXh@B"));
-
-    this.map.addLayer(L.polyline(this.decoded));
     tiles.addTo(this.map);
+    this.layerGroup = L.layerGroup().addTo(this.map);
   }
 
   // Decode polyline
