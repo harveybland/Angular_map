@@ -1,9 +1,10 @@
+import { Access } from './../../interface/api';
 import { MapService } from './map.service';
 import { Component, OnInit } from '@angular/core';
 import { tileLayer, marker } from 'leaflet';
+import { ConnectorDetails } from 'src/app/interface/api';
 import * as L from 'leaflet';
 import 'leaflet.markercluster'
-import { ConnectorDetails } from 'src/app/interface/api';
 
 @Component({
   selector: 'app-map',
@@ -21,29 +22,37 @@ export class MapComponent implements OnInit {
   polyline: string = '';
   chargingStation: any;
   Connectors: ConnectorDetails[] = [];
+  Access: Access[] = [];
   decoded: [number, number][] = [];
   layerGroup: any;
 
-  connectorType: string = '';
-  selectedOption: any;
+  currentLat: any;
+  currentLong: any;
 
+  currentLocation: any = 'Leicester';
+  vacancyLocation: any = '54.00,-1.00';
+  connectorType: string = '';
+
+  selectedOption: any;
   options = [
     { name: "All", value: '' },
     { name: "3-pin Type G (BS1363)", value: '3-pin Type G (BS1363)' },
-    { name: "JEVS G105 (CHAdeMO) DC", value: 'JEVS G105 (CHAdeMO) DC' }
+    { name: "JEVS G105 (CHAdeMO) DC", value: 'JEVS G105 (CHAdeMO) DC' },
+    { name: "Type 1 SAEJ1772 (IEC 62196)", value: 'Type 1 SAEJ1772 (IEC 62196)' }
   ]
 
   ngOnInit() {
     this.initMap();
-    this.setPath('');
+    // this.setPath('');
+    // this.getLocation();
   }
 
   getPath(type: any) {
-    this.setPath(type.target.value);
+    this.connectorType = type;
   }
 
-  setPath(type: string) {
-    this.mapService.getPath(type).subscribe(resp => {
+  setPath() {
+    this.mapService.getPath(this.currentLocation, this.vacancyLocation, this.connectorType).subscribe(resp => {
       this.polyline = resp.Polyline
 
       this.decoded = (this.decode(this.polyline));
@@ -75,11 +84,14 @@ export class MapComponent implements OnInit {
     })
   }
 
-  // getLocation() {
-  //   navigator.geolocation.getCurrentPosition(function (resp) {
-  //     console.log(resp)
-  //   })
-  // }
+  getLocation() {
+    let scope = this;
+    navigator.geolocation.getCurrentPosition(function (resp) {
+      scope.currentLat = resp.coords.latitude;
+      scope.currentLong = resp.coords.longitude;
+      scope.currentLocation = [resp.coords.latitude, resp.coords.longitude]
+    })
+  }
 
   getStation(guid: any) {
     this.mapService.getDetails(guid).subscribe(resp => {
@@ -88,6 +100,7 @@ export class MapComponent implements OnInit {
       }
       this.chargingStation = resp;
       this.Connectors = resp.Connectors;
+      this.Access = resp.Access;
     })
   }
 

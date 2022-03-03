@@ -14,8 +14,14 @@ export class MapService {
   constructor(private http: HttpClient,
     private configService: ConfigService) { }
 
-  getPath(ConnectorResults?: string) {
+  getPath(currentLocation?: string, vacancyLocation?: string, ConnectorResults?: string) {
     let params = new HttpParams();
+    if (!!currentLocation) {
+      params = params.append('origin', currentLocation.toString())
+    }
+    if (!!vacancyLocation) {
+      params = params.append('destination', vacancyLocation.toString())
+    }
     if (!!ConnectorResults) {
       params = params.append('connectorType', ConnectorResults.toString())
     }
@@ -24,9 +30,5 @@ export class MapService {
 
   getDetails(guid: number) {
     return this.http.get<Details>(this.configService.details(guid))
-  }
-
-  getEvLookup() {
-
   }
 }

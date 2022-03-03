@@ -1,0 +1,20 @@
+<div>
+  <div>
+    <select [(ngModel)]="this.manuFacturer">
+      <option *ngFor="let o of manuFacturer$ | async">
+        {{ o.ManuFacturer }}
+      </option>
+    </select>
+  </div>
+  <div>
+    <select [(ngModel)]="this.model">
+      <option *ngFor="let o of model$ | async">
+        {{ o.Model }}
+      </option>
+    </select>
+  </div>
+  <div>
+    <button (click)="result()">Submit</button>
+  </div>
+  <div></div>
+</div>

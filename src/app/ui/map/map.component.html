@@ -4,16 +4,46 @@
   </div>
 </div>
 
-<div class="map-settings">
-  <div>
+<div class="map-search">
+  <div class="flex">
+    <div>
+      <label for="">Location: </label>
+      <input type="text" [(ngModel)]="this.currentLocation" />
+    </div>
+    <div (click)="getLocation()">
+      <svg
+        class="svg"
+        xmlns="http://www.w3.org/2000/svg"
+        width="22"
+        height="22"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"
+        />
+      </svg>
+    </div>
+  </div>
+  <div class="flex">
+    <div>
+      <label for="">Vacancy Location: </label>
+      <input type="text" [(ngModel)]="this.vacancyLocation" />
+    </div>
+  </div>
+  <div class="flex">
     <label>Connector Type: </label>
-    <select (change)="getPath($event)" [(ngModel)]="selectedOption">
+    <select [(ngModel)]="this.connectorType">
       <option *ngFor="let o of options" value="{{ o.value }}">
         {{ o.name }}
       </option>
     </select>
   </div>
+  <div>
+    <button type="button" (click)="setPath()">Search</button>
+  </div>
 </div>
+
+<div class="map-settings"></div>
 
 <div class="map-details">
   <div>{{ chargingStation?.Name }}</div>
@@ -21,9 +51,15 @@
   <div>{{ chargingStation?.Town }}</div>
   <div>{{ chargingStation?.County }}</div>
   <div>{{ chargingStation?.PostCode }}</div>
+  <h3 *ngIf="Connectors.length == 0">Charging Type</h3>
   <ul *ngFor="let item of Connectors">
     <li>{{ item.ConnectorType }}</li>
     <li>{{ item.ChargeMethod }}</li>
     <li>{{ item.Status }}</li>
+  </ul>
+  <h3 *ngIf="Connectors.length == 0">Days of the week</h3>
+  <ul *ngFor="let item of Access">
+    <li>{{ item.DayOfWeek }}</li>
+    <li>{{ item.TimeStart }} - {{ item.TimeEnd }}</li>
   </ul>
 </div>

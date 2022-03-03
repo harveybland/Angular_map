@@ -1,3 +1,4 @@
+// Map
 export interface EvStation {
     ChargeDeviceId: string;
     Name?: string;
@@ -48,7 +49,19 @@ export interface ConnectorDetails {
 }
 
 export interface Access {
-    Day?: string;
-    TimeFrom?: string;
-    TimeTo?: string;
+    DayOfWeek?: string;
+    TimeStart?: string;
+    TimeEnd?: string;
+}
+
+// Emissions
+export interface Emissions {
+    Co2EmissionsId: number;
+    ManuFacturer: string;
+    Model: string;
+    Description: string;
+    Transmission: string;
+    ManualOrAutomatic: string;
+    FuelType: string;
+    EmissionsCo: number;
 }

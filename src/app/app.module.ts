@@ -7,9 +7,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MapComponent } from './ui/map/map.component';
-import { Map2Component } from './ui/map2/map2.component';
-import { Map2ItemComponent } from './ui/map2/map2-item/map2-item.component';
 import { FormsModule } from '@angular/forms';
+import { emissionsComponent } from './ui/emissions/emissions.component';
 
 @NgModule({
   imports: [
@@ -23,8 +22,7 @@ import { FormsModule } from '@angular/forms';
   declarations: [
     AppComponent,
     MapComponent,
-    Map2Component,
-    Map2ItemComponent
+    emissionsComponent
   ],
   providers: [],
   bootstrap: [AppComponent]

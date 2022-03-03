@@ -1,7 +1,7 @@
 import { MapComponent } from './ui/map/map.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { Map2Component } from './ui/map2/map2.component';
+import { emissionsComponent } from './ui/emissions/emissions.component';
 
 const routes: Routes = [
   {
@@ -9,8 +9,8 @@ const routes: Routes = [
     component: MapComponent
   },
   {
-    path: 'map',
-    component: Map2Component
+    path: 'emissions',
+    component: emissionsComponent
   },
   {
     path: '**',
