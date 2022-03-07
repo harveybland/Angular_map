@@ -13,6 +13,8 @@ import 'leaflet.markercluster'
 })
 export class MapComponent implements OnInit {
 
+  connectors$ = this.mapService.connectors$;
+
   constructor(private mapService: MapService) { }
 
   map: any;
@@ -33,16 +35,9 @@ export class MapComponent implements OnInit {
   vacancyLocation: any = '54.00,-1.00';
   connectorType: string = '';
 
-  selectedOption: any;
-  options = [
-    { name: "All", value: '' },
-    { name: "3-pin Type G (BS1363)", value: '3-pin Type G (BS1363)' },
-    { name: "JEVS G105 (CHAdeMO) DC", value: 'JEVS G105 (CHAdeMO) DC' },
-    { name: "Type 1 SAEJ1772 (IEC 62196)", value: 'Type 1 SAEJ1772 (IEC 62196)' }
-  ]
-
   ngOnInit() {
     this.initMap();
+    this.mapService.ConnectorTypeLookup().subscribe()
     // this.setPath('');
     // this.getLocation();
   }

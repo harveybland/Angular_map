@@ -1,20 +1,35 @@
 <div>
   <div>
-    <select [(ngModel)]="this.manuFacturer">
-      <option *ngFor="let o of manuFacturer$ | async">
-        {{ o.ManuFacturer }}
+    Manufacturer:
+    <select [(ngModel)]="this.manuFacturer" (change)="getManuFacturer($event)">
+      <option *ngFor="let o of manufacturer$ | async">
+        {{ o }}
       </option>
     </select>
   </div>
   <div>
-    <select [(ngModel)]="this.model">
+    Model:
+    <select [(ngModel)]="this.model" (change)="getModel($event)">
       <option *ngFor="let o of model$ | async">
-        {{ o.Model }}
+        {{ o }}
+      </option>
+    </select>
+  </div>
+  <div class="m-b">
+    Description:
+    <select [(ngModel)]="this.description" (change)="getEmissions($event)">
+      <option *ngFor="let o of description$ | async">
+        {{ o.Key }}
       </option>
     </select>
   </div>
   <div>
-    <button (click)="result()">Submit</button>
+    <li>{{ emissions?.Manufacturer }}</li>
+    <li>{{ emissions?.Model }}</li>
+    <li>{{ emissions?.Description }}</li>
+    <li>{{ emissions?.EmissionsCo }}</li>
   </div>
-  <div></div>
+  <!-- <div>
+    <button (click)="result()">Submit</button>
+  </div> -->
 </div>

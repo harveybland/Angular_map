@@ -57,11 +57,17 @@ export interface Access {
 // Emissions
 export interface Emissions {
     Co2EmissionsId: number;
-    ManuFacturer: string;
+    Manufacturer: string;
     Model: string;
     Description: string;
     Transmission: string;
     ManualOrAutomatic: string;
     FuelType: string;
     EmissionsCo: number;
+}
+
+// Lookup 
+export interface Ioption {
+    Key: number;
+    Value: string;
 }

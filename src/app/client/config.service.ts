@@ -17,8 +17,24 @@ export class ConfigService {
   }
 
   //Emissions
-  emissions() {
-    return `http://localhost:7071/api/GetCoEmissions`
+  EvEmissions() {
+    return `http://localhost:7071/api/Emissions`
   }
 
+  // Lookups
+  ConnectorType() {
+    return `http://localhost:7071/api/ConnectorType`
+  }
+
+  EvManufacturer() {
+    return `http://localhost:7071/api/Manufacturers`
+  }
+
+  EvModel() {
+    return `http://localhost:7071/api/Models`
+  }
+
+  EvDesription() {
+    return `http://localhost:7071/api/Descriptions`
+  }
 }
