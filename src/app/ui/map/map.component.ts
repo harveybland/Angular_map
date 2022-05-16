@@ -60,6 +60,8 @@ export class MapComponent implements OnInit {
         iconSize: [20, 30],
       });
 
+      // iconUrl: '/images/reskin/svgs/drag-me-pin.svg',
+
       var markers = L.markerClusterGroup({
         showCoverageOnHover: false,
       })
